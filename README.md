@@ -26,15 +26,18 @@ Diagrammes
 
 Diagramme Use Case
 
-WhatsApp Image 2025-03-22 à 02 44 00_c72d45ce
+![WhatsApp Image 2025-03-22 à 02 44 00_df0293cf](https://github.com/user-attachments/assets/42190f33-6a0e-41d1-a001-a0abc6696121)
+
 
 Diagramme de Classe :
 
-image
+![WhatsApp Image 2025-03-23 à 01 05 39_e3fafa4f](https://github.com/user-attachments/assets/2f81ab4e-68b3-44c4-a03e-a02607a16b91)
+
 
 Architecture
 
-image
+![image](https://github.com/user-attachments/assets/86f0dba4-11af-41d3-a66d-c9225a0d9e6e)
+
 
 Technologies
 
