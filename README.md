@@ -107,3 +107,5 @@ Enregistrer la participation : Permet aux participants de s'inscrire à des conc
 Filtrer les résultats par concours : Offre la possibilité de visualiser les résultats d'un concours spécifique.
 
 Rechercher un participant : Fonctionnalité de recherche pour trouver un participant par son nom.
+
+![Aperçu](media/tp.mp4)
